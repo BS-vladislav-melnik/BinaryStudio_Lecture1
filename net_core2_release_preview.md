@@ -6,11 +6,11 @@
 
   Developer delights – Remove the papercuts (frustrating behavior) experienced when writing for ASP.NET Core
   
-*Extending App Model
+* Extending App Model
 
-*Performance
+* Performance
 
-*Increased Azure Integration
+* Increased Azure Integration
 
   Razor Pages have been added to ASP.NET Core 2 to provide a way for developers to start building web applications without requiring the infrastructure of a full MVC app.  One of the benefits to this approach is that since Razor pages are built on top of MVC, it is easy to later transform a growing application into a proper MCV solution.  Razor pages utilize the @page directive to handle requests directly without needing a corresponding controller.
 
