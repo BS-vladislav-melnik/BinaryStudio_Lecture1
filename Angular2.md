@@ -3,12 +3,14 @@ Angular applications are made up of components. A component is the combination o
 ## src/app/app.component.ts
 COPY CODE
 
-` import { Component } from '@angular/core';
+```
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'my-app',
   template: `<h1>Hello {{name}}</h1>`
-})`
+})
+```
 export class AppComponent { name = 'Angular'; }
 Try this QuickStart example on Plunker without installing anything. Try it locally with the QuickStart seed and prepare for development of a real Angular application.
 Every component begins with an @Component decorator function that takes a metadata object. The metadata object describes how the HTML template and component class work together.
