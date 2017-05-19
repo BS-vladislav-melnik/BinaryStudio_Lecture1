@@ -5,9 +5,13 @@
   At Build 2017, Microsoft’s Daniel Roth and Scott Hanselman were on hand to demonstrate firsthand what ASP.NET Core 2 offers developers.  The development team had four primary goals in mind when producing this release:
 
   Developer delights – Remove the papercuts (frustrating behavior) experienced when writing for ASP.NET Core
+  
 *Extending App Model
+
 *Performance
+
 *Increased Azure Integration
+
   Razor Pages have been added to ASP.NET Core 2 to provide a way for developers to start building web applications without requiring the infrastructure of a full MVC app.  One of the benefits to this approach is that since Razor pages are built on top of MVC, it is easy to later transform a growing application into a proper MCV solution.  Razor pages utilize the @page directive to handle requests directly without needing a corresponding controller.
 
   To use ASP.NET Core 2 Preview with Visual Studio 2017, you will need to install the latest build (15.3 Preview).  Visual Studio is not required and working from the Windows command line, Mac or Linux is also an option.  Installation binaries are available for all three platforms today.
