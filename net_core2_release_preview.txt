@@ -13,3 +13,6 @@ Razor Pages have been added to ASP.NET Core 2 to provide a way for developers to
 To use ASP.NET Core 2 Preview with Visual Studio 2017, you will need to install the latest build (15.3 Preview).  Visual Studio is not required and working from the Windows command line, Mac or Linux is also an option.  Installation binaries are available for all three platforms today.
 
 Remember that this can be installed side-by-side with your current production copy of VS2017 15.2.  Full release notes are available on GitHub. It should also be noted that ASP.NET Core 2 applications will be able to run on Mono, .NET Core, and .NET Framework.
+
+
+Very deep thought should be here:D
